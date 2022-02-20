@@ -1,0 +1,7 @@
+monthconversions = {
+    "jan":"january",
+    "feb":"february",
+    "mar":"march",
+    "apr":"april"
+}
+print (monthconversions["jan"])
